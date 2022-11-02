@@ -3,7 +3,7 @@
  <abc>
  :computer:<br>
   <br>
-    <center><img src="https://media.giphy.com/media/gphKCkuvxDpM2cna8G/giphy-downsized-large.gif" alt="Coder GIF" width="500"></center>
+    <center><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Coder GIF" width="500"></center>
  </abc>
 </h2> 
 

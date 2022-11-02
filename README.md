@@ -1,4 +1,4 @@
-Hi😄, I am [J S Pavan](https://github.com/manasasamaga17)
+Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
  :computer:<br>

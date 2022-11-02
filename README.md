@@ -23,12 +23,12 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 
 - I love learning new things.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
-- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies.
-- 🧠 mindfulness and creative & critical thinking.
+- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and other booming technologies.
+- 🧠 mindfulness , creative / critical thinking  , reading all book genre. 
 - 🌳 🌏 World is our existing heaven.
-- 🏃 Fitness is the best way to live.
+- 🏃 Being fit is the best way to live.
 - 🏠 Bangalore,India.
-- 💟 Love is money.
+- 💟 Love is time and time is money.
 -🎻 Music is therapy .
 -🏞️ Traveling and exploring new places.
 -🎥dream to be an actor someday.

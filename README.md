@@ -1,4 +1,4 @@
-## नमस्ते (Namaste) 😄, I am [J S Pavan](https://github.com/manasasamaga17)
+Hi😄, I am [J S Pavan](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
  :computer:<br>
@@ -23,16 +23,16 @@
 
 - I am currently loving everything I learn.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
-- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies
-- 🧠 mindfulness and creative thinking 
-- 🌳 🌏 Nature is your best friend.
-- 🏃 Fitness is the best way of life.
+- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologie.
+- 🧠 mindfulness and creative thinking.
+- 🌳 🌏 World is Heaven.
+- 🏃 Fitness is the best way to live.
 - 🏠 Bangalore,India.
 - 💟 Love is money.
 -🎻 Music is therapy .
--🏞️ Traveling and exploring new places
--🎥Love to be an actor someone  
--🎵 Metal 
+-🏞️ Traveling and exploring new places.
+-🎥Love to be an actor someone.
+-🎵 Metal music.
  
 
 

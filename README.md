@@ -49,4 +49,4 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 <a href="https://github.com/Pavanjs111/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pavanjs111">
 </a
-<a href="https://github.com/manasasamaga17?tab=followers"><img src="https://img.shields.io/github/followers/Pavanjs111?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Pavanjs111?tab=followers"><img src="https://img.shields.io/github/followers/Pavanjs111?label=Followers&style=social" alt="GitHub Badge"></a>

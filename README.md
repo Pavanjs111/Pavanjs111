@@ -9,12 +9,14 @@
 
 <h2 align="left">:hammer_and_wrench: Tools I know:</h2>
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java.png"/>
+   <img src="https://img.icons8.com/color/48/000000/django.png"/>
+ <img src="https://img.icons8.com/color/48/000000/sap.png"/>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>

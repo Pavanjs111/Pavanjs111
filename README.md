@@ -1,9 +1,9 @@
-## नमस्ते (Namaste) 😄, I am [Manasa Samaga](https://github.com/manasasamaga17)
+## नमस्ते (Namaste) 😄, I am [J S Pavan](https://github.com/manasasamaga17)
 <h2 align="left">
  <abc>
  :computer:<br>
   <br>
-    <center><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="500"></center>
+    <center><img src="https://media.giphy.com/media/t7u9kJtkMpVkocr40B/giphy.gif" alt="Coder GIF" width="500"></center>
  </abc>
 </h2> 
 
@@ -21,15 +21,18 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I am currently learning Data Science
-- 🏫 REVA University-BTech ComputerScience Engineering (2017-2021) CGPA:9.1/10
-- :hourglass_flowing_sand:  Exploring Artificial intelligence,Quantum Computing,Blockchain,AR/VR 
-- 🎯 Do Something Impossible,creative and Unique in life
-- 🧠 control your mind
-- 🌳 🌏 Fight for Climate Change 
-- 🏃 Fitness Freak
-- 🏠 Bangalore,India 
-- 💟 🎨 🎻 🏞️ 🎥 🎵 
+- I am currently loving everything I learn.
+- 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
+- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies
+- 🧠 mindfulness and creative thinking 
+- 🌳 🌏 Nature is your best friend.
+- 🏃 Fitness is the best way of life.
+- 🏠 Bangalore,India.
+- 💟 Love is money.
+-🎻 Music is therapy .
+-🏞️ Traveling and exploring new places
+-🎥Love to be an actor someone  
+-🎵 Metal 
  
 
 <p align="center">
@@ -53,12 +56,10 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <p align="left">
-<a href = "https://www.linkedin.com/in/manasasamaga/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ManasaSamaga"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/manasa.samaga/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/manasasb"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "manasasb17@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-P3qeKxkXZg7o0bqG9wyeA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/pavanjs693/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/pavanjs69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/pavanjs3"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "jspavan111@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
  
 ## 👀 Views and Followers

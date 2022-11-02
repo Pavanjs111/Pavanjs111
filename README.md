@@ -7,8 +7,8 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
  </abc>
 </h2> 
 
-<h2 align="centre">:hammer_and_wrench: Tools I know:</h2>
-<p align="centre">
+<h2 align="left">:hammer_and_wrench: Tools I know:</h2>
+<p align="left">
     <img src="https://img.icons8.com/color/48/000000/c.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>

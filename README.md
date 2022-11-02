@@ -41,7 +41,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/pavanjs693/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/pavanjs69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/pavanjs3"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/pavanjs3@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "jspavan111@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
  

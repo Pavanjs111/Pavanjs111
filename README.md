@@ -20,7 +20,6 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-
 - I am currently loving everything I learn.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
 - :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies.
@@ -37,8 +36,8 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
 
 
 
-<h2 align="left">:heart: Let's get connected:</h2>
-<p align="left">
+<h2 align="center">:heart: Let's get connected:</h2>
+<p align="center">
 <a href = "https://www.linkedin.com/in/pavanjs693/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/pavanjs69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/pavan.js.75"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>

@@ -31,7 +31,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 - 💟 Love is time and time is money.
 -🎻 Music is therapy .
 -🏞️ Traveling and exploring new places.
--🎥I dream to be an MULTITALENTED ACTOR someday <3.
+-🎥I dream of becoming a MULTITALENTED ACTOR someday <3.
 -🎵 Metal music.
  
 

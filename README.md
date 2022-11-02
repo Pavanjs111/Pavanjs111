@@ -42,7 +42,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 <a href = "https://www.linkedin.com/in/pavanjs693/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/pavanjs69/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/pavan.js.75"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "jspavan693@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href = "jspavan693@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 
  
 ## 👀 Views and Followers

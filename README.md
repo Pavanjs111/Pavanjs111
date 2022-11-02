@@ -1,4 +1,4 @@
-Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
+Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 <h2 align="center">
  <abc>
  :computer:<br>
@@ -19,7 +19,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
  <img src="https://img.icons8.com/color/48/000000/sap.png"/>
 </p>
 
-<h2 align="centre">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 - I am currently loving everything I learn.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
 - :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies.

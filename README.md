@@ -23,7 +23,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
 
 - I am currently loving everything I learn.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
-- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologie.
+- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies.
 - 🧠 mindfulness and creative thinking.
 - 🌳 🌏 World is Heaven.
 - 🏃 Fitness is the best way to live.

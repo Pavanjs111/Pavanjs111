@@ -1,5 +1,5 @@
 Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
-<h2 align="left">
+<h2 align="center">
  <abc>
  :computer:<br>
   <br>
@@ -7,8 +7,8 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
  </abc>
 </h2> 
 
-<h2 align="left">:hammer_and_wrench: Tools I know:</h2>
-<p align="left">
+<h2 align="centre">:hammer_and_wrench: Tools I know:</h2>
+<p align="centre">
     <img src="https://img.icons8.com/color/48/000000/c.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -19,7 +19,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/manasasamaga17)
  <img src="https://img.icons8.com/color/48/000000/sap.png"/>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="centre">👨🏻‍💻 About Me:</h2>
 - I am currently loving everything I learn.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
 - :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and new technologies.

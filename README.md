@@ -33,7 +33,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 - 💟 Animals and Nautre.
 -🎻 Music is therapy .
 -🏞️ Traveling and exploring new places.
--🎥I dream of becoming a MULTITALENTED ACTOR someday <3.
+-🎥I dream of becoming a MULTITALENTED ACTOR / PROGRAMMER  <3.
 -🎵 Metal music.
  
 

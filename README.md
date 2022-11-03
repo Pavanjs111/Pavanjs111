@@ -17,9 +17,6 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
     <img src="https://img.icons8.com/color/48/000000/java.png"/>
    <img src="https://img.icons8.com/color/48/000000/django.png"/>
  <img src="https://img.icons8.com/color/48/000000/sap.png"/>
- <img src="https://img.icons8.com/color/48/000000/git.png"/>
- <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
- 
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>
@@ -27,11 +24,11 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 - I love learning new things.
 - 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
 - :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and other booming technologies.
-- 🧠 mindfulness , creative / critical thinking  , reading all book genre. 
+- 🧠 mindfulness , creative / critical thinking . 
 - 🌳 🌏 World is our existing heaven.
 - 🏃 Being fit is the best way to live.
 - 🏠 Bangalore,India.
-- 💟 Love is time and time is money.
+- 💟 Animals and Nautre.
 -🎻 Music is therapy .
 -🏞️ Traveling and exploring new places.
 -🎥I dream of becoming a MULTITALENTED ACTOR someday <3.

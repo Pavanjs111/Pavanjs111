@@ -17,6 +17,9 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
     <img src="https://img.icons8.com/color/48/000000/java.png"/>
    <img src="https://img.icons8.com/color/48/000000/django.png"/>
  <img src="https://img.icons8.com/color/48/000000/sap.png"/>
+ <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
+ 
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>

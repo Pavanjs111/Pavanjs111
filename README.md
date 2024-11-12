@@ -24,8 +24,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 
 - I love learning new things.
-- 🏫 Presidency University-BTech Computer Science Engineering (2017-2021).
-- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain and other booming technologies.
+- :hourglass_flowing_sand:  Exploring Artificial intelligence, Quantum Computing, Blockchain, Busienss  and other booming technologies.
 - 🧠 mindfulness , creative / critical thinking . 
 - 🌳 🌏 World is our existing heaven.
 - 🏃 Being fit is the best way to live.
@@ -33,7 +32,7 @@ Hi 😄 , I am [J S Pavan](https://github.com/Pavanjs111)
 - 💟 Animals and Nautre.
 -🎻 Music is therapy .
 -🏞️ Traveling and exploring new places.
--🎥I dream of becoming a MULTITALENTED ACTOR / PROGRAMMER  <3.
+-❤️I dream of becoming a Kind, understanding and an helpful person <3.
 -🎵 Metal music.
  
 
